@@ -80,13 +80,6 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 
 ---
 
-### 🎵 Spotify Playing  
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=
-31v6gec7phdt6zt2jlmel6eqv6ka&cover_image=true&theme=novatorem" alt="Spotify Playing" />
-</div>
-
----
 
 ### 🎨 Random Dev Quote  
 <div align="center">
