@@ -18,21 +18,16 @@
 </a>  
   
 
+---
 
+### 🚀 About Me  
+I’m an **AI enthusiast** with hands-on experience in **machine learning** and **cloud platforms**. As an **Industrial Trainee at Intel**, I’ve tackled real-time problems using cutting-edge technologies. I’m proficient in **Python, SQL, and web development**, and I have strong **public speaking** and **team-building** skills. I’ve also been recognized for my achievements in **state-level competitions** and **hackathons**.  
 
-### Glad to see you here!  
-AI novice with hands-on experience in machine learning and cloud platforms. As an Industrial Trainee at Intel, I tackled real-time problems leveraging cutting-edge technologies. Adept at Python, SQL, and web development, with strong public speaking and team-building skills. Recognized for achievements in state-level competitions and hackathons. Additionally, I am a YouTuber with the channel ”CyberGeek.”
+Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.youtube.com/user/@cybergeek4865)**, where I share my knowledge and passion for technology.  
 
-  
-  
+---
 
-<br/>  
-
-
-
-
-
-## Languages and Tools  
+### 🛠️ Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -73,34 +68,49 @@ AI novice with hands-on experience in machine learning and cloud platforms. As a
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
 </div>  
 
-<br/>  
+---
 
-
-## Github Stats  
+### 📊 GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farhankhankundur&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Farhankhankundur&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhankhankundur&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhankhankundur&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
-<br/>  
+---
 
-  ### 📊 GitHub Streaks  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Farhankhankundur)](https://git.io/streak-stats)
+### 🔥 GitHub Streaks  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical)](https://git.io/streak-stats)
 
-<br/>  
+---
+
+### 📈 Activity Graph  
+[![Farhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&theme=react-dark)](https://github.com/Farhankhankundur)
+
+---
+
+### 🏆 Achievements  
+- 🥇 **Winner** at State-Level Hackathon  
+- 🥈 **Runner-Up** in AI/ML Competition  
+- 🎥 **YouTuber** with 1k+ Subscribers  
+
+---
+
+### 📫 Let's Connect!  
+Feel free to reach out to me for collaborations, projects, or just a chat!  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhankhankundur)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarhanKhank18)  
+
+---
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Farhankhankundur&&style=flat-square)  
-  
 
-<br/>  
+---
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated with ❤️ using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
