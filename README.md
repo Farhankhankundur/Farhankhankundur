@@ -89,7 +89,8 @@ AI novice with hands-on experience in machine learning and cloud platforms. As a
 
 <br/>  
 
-  
+  ### 📊 GitHub Streaks  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Farhankhankundur&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br/>  
 
