@@ -5,55 +5,96 @@
 ---
 
 ### 🚀 About Me  
-I’m an **AI enthusiast** with hands-on experience in **machine learning** and **cloud platforms**. As an **Industrial Trainee at Intel**, I’ve tackled real-time problems using cutting-edge technologies. I’m proficient in **Python, SQL, and web development**, and I have strong **public speaking** and **team-building** skills. I’ve also been recognized for my achievements in **state-level competitions** and **hackathons**.  
+I’m **Farhan Khan K A**, an **AI and Machine Learning enthusiast** currently pursuing my **Bachelor of Engineering in Artificial Intelligence and Machine Learning** at **Visvesvaraya Technological University**. I’m passionate about solving real-world problems using cutting-edge technologies like **AI, ML, and Cloud Computing**.  
 
-Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.youtube.com/user/@cybergeek4865)**, where I share my knowledge and passion for technology.  
-
----
-
-### 🛠️ Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tailwind,bootstrap,flask,express,mongodb,mysql,postgres,aws,gcp,docker,kubernetes,git,github,linux,vscode,tensorflow,keras,opencv,android,firebase,wordpress&perline=9" alt="Tech Stack" />
-</div>
+I’ve worked as a **Software Engineer Intern at ResoluteAI Software** and as an **Industrial Trainee at Intel Unnati**, where I optimized ML models and deployed AI solutions for edge computing. I’m also a **YouTuber** with the channel **[CyberGeek](https://www.youtube.com/user/@cybergeek4865)**, where I share my knowledge and passion for technology.  
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhankhankundur&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhankhankundur&hide_border=true&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+### 📍 Location  
+**Honnali, Davangere, Karnataka, India**  
+📞 **+91 8792554085** | 📧 **farhankhankundur@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/farhankhankundur) | 🐙 [GitHub](https://github.com/Farhankhankundur) | 🌐 [Portfolio](https://farhanportfolio.com)  
 
 ---
 
-### 🔥 GitHub Streaks  
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical" alt="GitHub Streak" />
-</div>
+### 🎓 Education  
+- **Visvesvaraya Technological University**  
+  Bachelor of Engineering in Artificial Intelligence and Machine Learning  
+  *Dec. 2021 – May 2025* | *Current CGPA: 8.7*  
+
+- **SPSM PU College**  
+  Pre-University Course (PUC) in Science  
+  *June 2019 – May 2021* | *Percentage: 92%*  
+
+- **Stella Maris High School**  
+  Secondary School Leaving Certificate (SSLC)  
+  *June 2018 – May 2019* | *Percentage: 94%*  
 
 ---
 
-### 📈 Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+### 💼 Experience  
+#### **ResoluteAI Software**  
+*Software Engineer Intern* | *Aug. 2024 – Present*  
+- Worked on AI solutions for edge devices, empowering enterprises to adopt advanced technologies like AI and ML.  
+- Contributed to several proof-of-concept (PoC) projects to explore and validate innovative AI applications.  
+- Developed and optimized inference pipelines to improve the performance and efficiency of AI systems.  
+
+#### **Intel Unnati**  
+*Industrial Trainee* | *May 2024 – July 2024*  
+- Analyzed ML models for edge computing and optimized inference speed using OpenVINO.  
+- Deployed AI solutions on the Intel Edge Cloud, improving interoperability through modular architecture.  
+
+#### **Areca Plantations**  
+*Field Intern* | *June 2023 – July 2023*  
+- Designed **Sparc**, a Monkey Repellent System using sound frequencies to protect areca plantations.  
+- Integrated image recognition and real-time alerts for enhanced monitoring and crop protection.  
 
 ---
 
-### 🏆 Achievements  
-- 🥇 **Winner** at State-Level Hackathon  
-- 🥈 **Runner-Up** in AI/ML Competition  
-- 🎥 **YouTuber** with 1k+ Subscribers  
-- 🌟 **Open Source Contributor**  
+### 🛠️ Skills  
+#### **Languages**: Python, C, HTML/CSS, SQL  
+#### **Developer Tools**: VS Code, Intel Edge, Android Studio, Xcode  
+#### **Technologies/Frameworks**: Machine Learning, TensorFlow, OpenCV, OpenVINO, Excel  
+#### **Soft Skills**: Teamwork, Practical Thinking, Innovation, Research  
 
 ---
 
-### 📌 Featured Projects  
-Here are some of my favorite projects:  
+### 🏆 Awards and Achievements  
+- **1st Place**, State-level Paper Presentation, GMIT  
+- **3rd Place**, National Level Hackathon, Hackshethra, VVCE Mysore  
+- **2nd Place**, Hackathon, Hacktechfusion, BIET  
+- **3rd Place**, TON Society Global Hackathon, Web3  
+- **Top 10 Teams**, TON Hacker House Hackathon  
+- **2nd Place**, State-level Sketching Competition, Axis Bank  
 
-- **[Project 1](https://github.com/Farhankhankundur/project1)** - A machine learning model for predicting X.  
-- **[Project 2](https://github.com/Farhankhankundur/project2)** - A web app built with React and Flask.  
-- **[Project 3](https://github.com/Farhankhankundur/project3)** - An Android app for Y.  
+---
+
+### 📌 Projects  
+#### **GenAI on Intel Processors** | *OpenVINO, LLaMA 2*  
+- Optimized ML models with OpenVINO, achieving a **15% increase in inference speed**.  
+- Implemented LLaMA 2-based solutions, enhancing model performance by **20%** for edge computing.  
+
+#### **Kannada to English Translation Tool** | *Speech-to-Text, Text-to-Speech, Custom Voice Synthesis*  
+- Developed a real-time translation tool integrating speech-to-text and text-to-speech capabilities.  
+- Adapted the tool to mimic the user’s voice for enhanced personalization.  
+
+---
+
+### 📜 Certifications  
+- **Oracle Cloud Infrastructure AI Certified Professional** (2024)  
+- **IBM Machine Learning with Python**  
+- **Microsoft Cybersecurity Essentials**  
+- **50-hour AI and ML Course**, ResoluteAI  
+
+---
+
+### 🌟 Leadership and Extracurricular  
+- **Student Coordinator**, IEEE International Conference, AMATHE  
+- **Mentor**, Hackathon  
+- **Workshop Trainer**, Full Stack Development  
+- **Member**, YUVA Club  
+- **Contributor**, Book Chapter on Aerospace and Metamaterials (collaboration with ISRO and NASA scientists)  
 
 ---
 
@@ -61,7 +102,7 @@ Here are some of my favorite projects:
 Feel free to reach out to me for collaborations, projects, or just a chat!  
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:farhankhankundur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/farhankhankundur">
@@ -80,22 +121,8 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 
 ---
 
-### 🎵 Spotify Playing  
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" alt="Spotify Playing" />
-</div>
-
----
-
-### 🎨 Random Dev Quote  
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-### 🎮 Fun Fact  
-I’m currently learning **Game Development** and building a 2D platformer game!  
+### 🎨 Fun Fact  
+I’m passionate about **Photography, Dancing, Font Design, Video Editing, and Sketching**!  
 
 ---
 
