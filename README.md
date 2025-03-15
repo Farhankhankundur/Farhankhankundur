@@ -82,7 +82,7 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 
 ### 🎵 Spotify Playing  
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" alt="Spotify Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v6gec7phdt6zt2jlmel6eqv6ka&cover_image=true&theme=novatorem" alt="Spotify Playing" />
 </div>
 
 ---
@@ -95,7 +95,7 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 ---
 
 ### 🎮 Fun Fact  
-I’m currently learning **Game Development** and building a 2D platformer game!  
+I’m currently learning **Full Stack Development**!  
 
 ---
 
