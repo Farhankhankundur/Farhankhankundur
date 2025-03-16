@@ -13,8 +13,88 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
 
 ### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tailwind,bootstrap,flask,express,mongodb,mysql,postgres,aws,gcp,docker,kubernetes,git,github,linux,vscode,tensorflow,keras,opencv,android,firebase,wordpress&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,sql,vscode,intel,android,xcode,tensorflow,opencv,openvino,excel,java,spring&perline=9" alt="Tech Stack" />
 </div>
+
+### Skills and Experience
+
+#### **Languages:**
+- Python
+- C
+- HTML/CSS
+- SQL
+- Java
+
+#### **Developer Tools:**
+- VS Code
+- Intel Edge
+- Android Studio
+- Xcode
+
+#### **Technologies/Frameworks:**
+- Machine Learning
+- TensorFlow
+- OpenCV
+- OpenVINO
+- Excel
+
+#### **Soft Skills:**
+- Teamwork
+- Practical Thinking
+- Innovation
+- Research
+
+#### **Web Technology Skills:**
+- **HTML**: Extreme knowledge. Cloned web pages using HTML.
+- **CSS**: Strong knowledge.
+- **JavaScript**: 
+  - Strong knowledge on Hoisting.
+  - Good knowledge on DOM and BOM.
+  - Good knowledge on Asynchronous programming (callback, promises, Async/Await).
+  - Strong knowledge on Local and Session storage.
+  - Strong knowledge on JSON.
+
+#### **JDBC & Hibernate:**
+- **JDBC**:
+  - Extensive knowledge on connection steps.
+  - Strong knowledge on Drivers and its types.
+  - Good knowledge on APIs and its types.
+  - Hands-on experience on CRUD operations.
+- **Hibernate**:
+  - Strong knowledge on connection steps and inbuilt methods.
+  - Strong knowledge on OMR concept.
+  - Good knowledge on Java Persistence API and Mapping.
+
+#### **Core Java Skills:**
+- **OOP's Concepts**: Strong knowledge.
+- **Other Concepts**:
+  - Good knowledge on Static and Non-Static, Access Specifiers, Constructor, Method-Overloading, Method-Overriding, Arrays, Typecasting, Polymorphism, Exception Handling, Collections, Abstraction, and Logical Programming.
+
+#### **SQL Skills:**
+- **DBMS & RDBMS**: Good knowledge on concepts.
+- **SQL Operations**:
+  - Good knowledge on DQL, DDL, DML, DCL, TCL.
+  - Good knowledge on Functions, creating views, creating stored procedures.
+  - Good knowledge on Sub Queries and Joins.
+  - Hands-on experience on writing queries.
+
+#### **Servlet Skills:**
+- **Web Application & Server**: Good understanding.
+- **Servlet Concepts**:
+  - Good understanding of Servlet, Generic Servlet, Http Servlet, and Http methods (doPost, doGet).
+  - Hands-on experience on Request Dispatcher and SendRedirect.
+  - Good understanding of session tracking methods such as cookies, URL rewriting, and Http session.
+
+#### **Spring Skills:**
+- **Spring IOC**: Knowledge of core and advanced container.
+  - Understanding of dependency injection ways including setter injection, constructor injection, and annotation.
+  - Knowledge of @Component and @Autowired.
+- **Spring MVC & Boot**:
+  - Hands-on experience of developing web apps using Spring MVC.
+  - CRUD operations using servlet, Spring MVC, and Spring Boot.
+  - Knowledge of Rest API - to create Rest API using Spring Boot.
+  - Implemented Spring mail in Spring projects.
+
 
 ---
 
