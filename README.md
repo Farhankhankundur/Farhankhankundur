@@ -79,10 +79,10 @@ Here are some of my favorite projects:
 Feel free to reach out to me for collaborations, projects, or just a chat!  
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:farhankhankundur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/farhankhankundur">
+  <a href="https://www.linkedin.com/in/farhankhankundur/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/FarhanKhank18">
