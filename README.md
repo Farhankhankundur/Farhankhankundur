@@ -13,7 +13,7 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
 
 ### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,flask,mongodb,excel,jdbc,opencv,mysql,aws,docker,git,github,linux,vscode,tensorflow,keras,flutter,latex,llm&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,flask,mongodb,excel,jdbc,opencv,mysql,aws,docker,git,github,linux,vscode,tensorflow,keras,flutter,latex,llm,eclipse&perline=10" alt="Tech Stack" />
 </div>
 
 
