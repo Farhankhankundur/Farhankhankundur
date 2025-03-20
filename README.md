@@ -43,11 +43,17 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
 
 ---
 
-### 🏆 Achievements  
-- 🥇 **Winner** at State-Level Hackathon  
-- 🥈 **Runner-Up** in AI/ML Competition  
+### 🏆 Achievements   
 - 🎥 **YouTuber** with 1k+ Subscribers  
-- 🌟 **Open Source Contributor**  
+- 🌟 **Open Source Contributor**
+- 🥇**1st Place**, State-level Paper Presentation, GMIT: Presented award-winning research at a state-level competition.
+- 🥈 **3rd Place**, National Level Hackathon, Hackshethra, VVCE Mysore: Developed an innovative project in a
+national hackathon.
+- 🥈 **2nd Place**, Hackathon, Hacktechfusion, BIET: Secured second place with a creative technical solution.
+- 🥇**3rd Place**, TON Society Global Hackathon, Web3: Built a Web3 application recognized on a global platform.
+- 🥈 ** Among Top 10 Teams**, TON Hacker House Hackathon: Pitched a review app project, earning recognition among
+top 10 teams.
+- 🥇**2nd Place**, State-level Sketching Competition, Axis Bank: Showcased artistic talent in a state-level competition. 
 
 ---
 
