@@ -67,7 +67,7 @@ top 10 teams.
 ### 📌 Featured Projects  
 Here are some of my favorite projects:  
 
-- **[Project 1]([https://github.com/Farhankhankundur/project1](https://github.com/Farhankhankundur/Intel-unnati))** - GenAI on Intel CPU- The project aims to demonstrate the performance and efficiency improvements in running GenAI models on Intel AI laptops using OpenVINO optimizations..  
+- **[Project 1](https://github.com/Farhankhankundur/Intel-unnati)** - GenAI on Intel CPU- The project aims to demonstrate the performance and efficiency improvements in running GenAI models on Intel AI laptops using OpenVINO optimizations..  
 - **[Project 2](https://github.com/Farhankhankundur/Web-Content-Q-A-Tool-Gemini-Powered-)** - Web Content Q&A Tool (Gemini-Powered) Ever wanted to extract information from multiple web pages and get instant answers? 🚀 This Streamlit-powered app lets you scrape content from URLs and ask AI-driven questions using Google Gemini-Pro!.  
 - **[Project 3](https://github.com/Farhankhankundur/Face_recognition)** - Face Recognition System Using OpenCV This project implements a simple Face Recognition System using OpenCV in Python. The system captures face images from a live camera feed, trains an LBPH (Local Binary Patterns Histogram) face recognizer model, and performs real-time face recognition.
 
