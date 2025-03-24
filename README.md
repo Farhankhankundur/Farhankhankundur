@@ -30,7 +30,7 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
 ### 🔥 GitHub Streaks  
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical  " alt="GitHub Streak" />
-</div>.
+</div>
 
 ---
 
