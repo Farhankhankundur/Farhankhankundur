@@ -27,10 +27,11 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
 </div>
 
 ---
-### 🔥 GitHub Streaks
+### 🔥 GitHub Streaks  
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farhankhankundur&theme=radical)
-</div>
+  <img src="https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical  " alt="GitHub Streak" />
+</div>.
+
 ---
 
 ### 📈 Activity Graph  
