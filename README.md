@@ -94,7 +94,6 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 
 ---
 
-
 ### 🎨 Random Dev Quote  
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
