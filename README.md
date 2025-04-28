@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Hey+👋%2C+I'm+Farhan+Khan;AI+%7C+Full Stack+%7C+Data;Let's+build+something+awesome!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Hey+👋%2C+I'm+Farhan+Khan;AI+%7C+Full+Stack+%7C+Data;Let's+build+something+awesome!" alt="Typing Animation" />
 </p>
-
 
 ---
 
@@ -28,7 +27,7 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
 ---
 ### 🔥 GitHub Streaks  
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical  " alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -38,9 +37,7 @@ Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.yo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-
--------
-
+---
 
 ### 📝 Portfolio  
 Check out my [Portfolio](https://farhankhankundur.github.io/) to see more of my work and projects.  
@@ -67,8 +64,6 @@ Here are some of my favorite projects:
 - **[Project 1](https://github.com/Farhankhankundur/Intel-unnati)** - GenAI on Intel CPU- The project aims to demonstrate the performance and efficiency improvements in running GenAI models on Intel AI laptops using OpenVINO optimizations..  
 - **[Project 2](https://github.com/Farhankhankundur/Web-Content-Q-A-Tool-Gemini-Powered-)** - Web Content Q&A Tool (Gemini-Powered) Ever wanted to extract information from multiple web pages and get instant answers? 🚀 This Streamlit-powered app lets you scrape content from URLs and ask AI-driven questions using Google Gemini-Pro!.  
 - **[Project 3](https://github.com/Farhankhankundur/Face_recognition)** - Face Recognition System Using OpenCV This project implements a simple Face Recognition System using OpenCV in Python. The system captures face images from a live camera feed, trains an LBPH (Local Binary Patterns Histogram) face recognizer model, and performs real-time face recognition.
-
-
 
 ---
 
