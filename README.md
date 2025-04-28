@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Hey+👋%2C+I'm+Farhan+Khan;AI+%7C+Full Stack+%7C+Data;Let's+build+something+awesome!" alt="Typing Animation" />
 </p>
 
+
 ---
 
 ### 🚀 About Me  
