@@ -7,7 +7,7 @@
 ### 🚀 About Me  
 I’m an **AI enthusiast** with hands-on experience in **machine learning** and **cloud platforms**. As an **Industrial Trainee at Intel**, I’ve tackled real-time problems using cutting-edge technologies. I’m proficient in **Python, SQL, and web development**, and I have strong **public speaking** and **team-building** skills. I’ve also been recognized for my achievements in **state-level competitions** and **hackathons**.  
 
-Additionally, I’m a **YouTuber** with the channel **[CyberGeek](https://www.youtube.com/user/@cybergeek4865)**, where I share my knowledge and passion for technology.  
+
 
 ---
 
