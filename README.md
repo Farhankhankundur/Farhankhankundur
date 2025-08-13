@@ -32,11 +32,6 @@ I’m an **AI enthusiast** with hands-on experience in **machine learning** and 
 
 ---
 
-### 📈 Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
 ---
 
 ### 📝 Portfolio  
