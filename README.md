@@ -279,27 +279,95 @@
 
 ---
 
-## 🎮 **Beyond Code: Leadership & Impact**
+## 🚀 Beyond Code: Leadership & Impact
 
 <div align="center">
+  
+### 🌟 **Multi-Dimensional Impact** 🌟
+  
+<table>
+  <!-- Community Leadership -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.icons8.com/3d-fluency/94/group-background-selected.png" width="80" alt="Leadership"/>
+        <h3>🤝 <b>Community Leadership</b></h3>
+        
+        <table>
+          <tr>
+            <td align="center" width="40">🎯</td>
+            <td><b>Student Coordinator</b><br><sub>IEEE International Conference, AMATHE</sub></td>
+          </tr>
+          <tr>
+            <td align="center">👨‍🏫</td>
+            <td><b>Hackathon Mentor</b><br><sub>Guided 50+ students to technical success</sub></td>
+          </tr>
+          <tr>
+            <td align="center">💻</td>
+            <td><b>Workshop Trainer</b><br><sub>5-day Full Stack Dev for 50+ students</sub></td>
+          </tr>
+          <tr>
+            <td align="center">🌟</td>
+            <td><b>YUVA Club Member</b><br><sub>200+ hours community outreach</sub></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+    
+    <!-- Creative Passions -->
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.icons8.com/3d-fluency/94/artist-palette.png" width="80" alt="Creativity"/>
+        <h3>🎨 <b>Creative Passions</b></h3>
+        
+        <table>
+          <tr>
+            <td align="center" width="40">📸</td>
+            <td><b>Photography</b><br><sub>100+ professional shots captured</sub></td>
+          </tr>
+          <tr>
+            <td align="center">💃</td>
+            <td><b>Dancing</b><br><sub>3x intercollegiate competition winner</sub></td>
+          </tr>
+          <tr>
+            <td align="center">🎬</td>
+            <td><b>Video Editing</b><br><sub>50+ YouTube videos produced</sub></td>
+          </tr>
+          <tr>
+            <td align="center">✏️</td>
+            <td><b>Digital Art</b><br><sub>State-level sketching champion</sub></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Impact Metrics -->
+<div align="center" style="margin-top:20px">
+  <img src="https://img.icons8.com/3d-fluency/94/growth--v2.png" width="60"/>
+  <h3>📈 <b>Quantified Impact</b></h3>
+  
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h4>🤝 <b>Community Leadership</b></h4>
-        <p>🎯 <b>Student Coordinator</b> • IEEE International Conference, AMATHE</p>
-        <p>👨‍🏫 <b>Hackathon Mentor</b> • Guided students to technical success</p>
-        <p>💻 <b>Workshop Trainer</b> • 5-day Full Stack Development for 50+ students</p>
-        <p>🌟 <b>YUVA Club Member</b> • Social activities & community outreach</p>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/150+-Students_Mentored-00D9FF?style=for-the-badge&logo=academia&logoColor=white" alt="Students Mentored"/>
       </td>
-      <td align="center" width="50%">
-        <h4>🎨 <b>Creative Passions</b></h4>
-        <p>📸 <b>Photography</b> • Capturing moments & stories</p>
-        <p>💃 <b>Dancing</b> • Expressing creativity through movement</p>
-        <p>🎬 <b>Video Editing</b> • Content creation for YouTube</p>
-        <p>✏️ <b>Font Design & Sketching</b> • Digital & traditional art</p>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/200%2B-Community_Hours-00D9FF?style=for-the-badge&logo=heart&logoColor=white" alt="Community Hours"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/3x-Competition_Winner-00D9FF?style=for-the-badge&logo=trophy&logoColor=white" alt="Competitions"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/50%2B-Creative_Works-00D9FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Creative Works"/>
       </td>
     </tr>
   </table>
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=100%"/>
 </div>
 
 ---
