@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=🌟+Welcome+to+My+Digital+Universe+🌟" alt="Typing Animation"/>
-</div>
-
+# 01010111 01100101 01101100 01100011 01101111 01101101 01100101 [Welcome] 01110100 01101111 [to] 01001101 01111001 [My] 01000100 01101001 01100111 01101001 01110100 01100001 01101100 [Digital] 01010101 01101110 01101001 01110110 01100101 01110010 01110011 01100101 [Universe]
 
 
 
