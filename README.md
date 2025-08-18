@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&height=100&lines=🚀+Farhan+Khan+%7C+AI+Architect;🧠+Machine+Learning+Wizard;⚡+Full+Stack+Developer;🔮+Building+The+Future+With+Code" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&height=100&lines=🚀+Farhan+Khan+%7C+AI+Architect;🧠+Machine+Learning;⚡+Full+Stack+Developer;🔮+Building+The+Future+With+Code" alt="Dynamic Typing Animation" />
 </div>
 
 <div align="center">
