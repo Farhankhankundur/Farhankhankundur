@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://i.imgur.com/JFzV5nj.png" alt="Welcome Banner"/>
+</p>
+
+
 <div align="center">
   <h1>
     <span style="background: linear-gradient(90deg,#00D4FF,#FF00D4,#FFD700);
