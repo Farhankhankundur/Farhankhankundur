@@ -21,7 +21,6 @@ const farhan = {
     funFact: "I debug code faster than I debug my life 😅",
     motto: "Turn coffee into code, and code into innovation ☕➡️💻➡️🚀"
 };
-```
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Farhankhankundur&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy Case"/>
