@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2000&pause=500&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=70&lines=🚀+SOFTWARE+ENGINEER+%40+DXC+TECHNOLOGY;🧠+AI%2FML+SPECIALIST+%7C+PUBLISHED+RESEARCHER;⚡+INTEL+TRAINED+%7C+GLOBAL+HACKATHON+WINNER;🌟+BUILDING+TOMORROW'S+AI+TODAY" alt="Dynamic Profile"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=2000&pause=500&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=70&lines=🚀+SOFTWARE+ENGINEER+%40+DXC+TECHNOLOGY;🧠+AI%2FML+SPECIALIST+%7C+PUBLISHED+RESEARCHER;⚡+INTEL+TRAINED+%7C+GLOBAL+HACKATHON+WINNER;🌟+BUILDING+TOMORROW'S+AI+TODAY" alt="Dynamic Profile"/>
 </div>
 
 <br>
