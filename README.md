@@ -1,8 +1,7 @@
 <div align="center">
-  <h1 style="font-family: 'Arial'; color: #00D9FF; text-shadow: 0 0 10px #00D9FF;">✨ Welcome to My Digital Universe ✨</h1>
+  <h1 style="font-family: 'Courier New', monospace; color: #00D9FF; text-shadow: 0 0 10px #00D9FF; letter-spacing: 2px;">Welcome to My Digital Universe</h1>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 </div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&height=100&lines=🚀+Farhan+Khan+%7C+AI+Architect;🧠+Machine+Learning;⚡+Full+Stack+Developer;🔮+Building+The+Future+With+Code" alt="Dynamic Typing Animation" />
