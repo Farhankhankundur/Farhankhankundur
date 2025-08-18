@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/JFzV5nj.png" alt="Welcome Banner"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=🌟+Welcome+to+My+Digital+Universe+🌟" alt="Typing Animation"/>
+</div>
+
 
 
 <div align="center">
