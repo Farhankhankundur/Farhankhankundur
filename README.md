@@ -1,17 +1,5 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=wave&text1=🌟%20Welcome%20to%20My%20Digital%20Universe%20🌟&width=800&height=200" alt="Wave Banner"/>
-</div>
-
-
-
-<div align="center">
-  <h1>
-    <span style="background: linear-gradient(90deg,#00D4FF,#FF00D4,#FFD700);
-                 -webkit-background-clip: text;
-                 -webkit-text-fill-color: transparent;">
-      🌟 Welcome to My Digital Universe 🌟
-    </span>
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FF00D4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Welcome+to+My+Digital+Universe+🌟;🚀+Exploring+AI+%26+Innovation;⚡+Building+Tomorrow's+Tech+Today" alt="Typing SVG"/>
 </div>
 
 
