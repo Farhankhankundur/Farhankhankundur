@@ -12,7 +12,7 @@
 
 ## 🎯 **About This Human** 
 
-```typescript
+```javascript
 const farhan = {
     pronouns: "He" | "Him",
     location: "🌍 Earth • Currently: Building AI Solutions",
