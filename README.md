@@ -60,29 +60,29 @@
   <table>
     <tr>
       <td align="center" width="300">
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI/ML Stack"/><br>
         <sub><b>🧠 AI/ML Stack</b></sub>
       </td>
       <td align="center" width="300">
-        <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb&theme=dark" alt="Full Stack"/><br>
         <sub><b>🌐 Full Stack</b></sub>
       </td>
       <td align="center" width="300">
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark" alt="Cloud & DevOps"/><br>
         <sub><b>☁️ Cloud & DevOps</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,html,css,powershell&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=java,html,css,powershell&theme=dark" alt="Core Languages"/><br>
         <sub><b>💻 Core Languages</b></sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,github,figma,powershell&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=vscode,github,figma,powershell&theme=dark" alt="Dev Tools"/><br>
         <sub><b>🛠️ Development Tools</b></sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,graphql&theme=dark" /><br>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,graphql&theme=dark" alt="Databases"/><br>
         <sub><b>🗄️ Databases</b></sub>
       </td>
     </tr>
@@ -114,8 +114,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhankhankundur&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
-
-
 
 ---
 
@@ -345,7 +343,7 @@
 
 <!-- Impact Metrics -->
 <div align="center" style="margin-top:20px">
-  <img src="https://img.icons8.com/3d-fluency/94/growth--v2.png" width="60"/>
+  <img src="https://img.icons8.com/3d-fluency/94/growth--v2.png" width="60" alt="Growth"/>
   <h3>📈 <b>Quantified Impact</b></h3>
   
   <table>
@@ -390,14 +388,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=Farhankhankundur&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views"/>
-</div>
-
-<div align="center">
+  
   <sub>✨ <i>Crafted with passion, powered by code, and fueled by coffee</i> ✨</sub>
 </div>
-
-
