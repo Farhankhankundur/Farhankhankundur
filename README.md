@@ -115,9 +115,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhankhankundur&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+
 
 ---
 
