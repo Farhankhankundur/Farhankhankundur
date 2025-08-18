@@ -1,8 +1,7 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00D4FF, #FF00D4); -webkit-background-clip: text; color: transparent; font-size: 40px; font-weight: bold;">
-    🌟 Welcome to My Digital Universe 🌟
-  </span>
+<h1 align="center" style="color:#00D4FF; text-shadow: 0 0 10px #00D4FF, 0 0 20px #FF00D4, 0 0 30px #00D4FF;">
+  🌟 Welcome to My Digital Universe 🌟
 </h1>
+
 
 
 
