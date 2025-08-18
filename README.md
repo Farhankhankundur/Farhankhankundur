@@ -1,7 +1,7 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=🌟+Welcome+to+My+Digital+Universe+🌟" alt="Typing Animation"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🌟%20Welcome%20to%20My%20Digital%20Universe%20🌟&width=800&height=200" alt="Glitch Banner"/>
 </div>
+
 
 
 
