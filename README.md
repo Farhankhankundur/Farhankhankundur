@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=FF00D4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Welcome+to+My+Digital+Universe+🌟;🚀+Exploring+AI+%26+Innovation;⚡+Building+Tomorrow's+Tech+Today" alt="Typing SVG"/>
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=🌟%20Welcome%20to%20My%20Digital%20Universe%20🌟&width=800&height=200" alt="Wave Banner"/>
 </div>
 
 
