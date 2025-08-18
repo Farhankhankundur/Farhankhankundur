@@ -1,108 +1,215 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Hey+👋%2C+I'm+Farhan+Khan;AI+%7C+Full+Stack+%7C+Data;Let's+build+something+awesome!" alt="Typing Animation" />
-</p>
+# 🌟 Welcome to My Digital Universe 🌟
 
----
-
-### 🚀 About Me  
-I’m an **AI enthusiast** with hands-on experience in **machine learning** and **cloud platforms**. As an **Industrial Trainee at Intel**, I’ve tackled real-time problems using cutting-edge technologies. I’m proficient in **Python, SQL, and web development**, and I have strong **public speaking** and **team-building** skills. I’ve also been recognized for my achievements in **state-level competitions** and **hackathons**.  
-
-
-
----
-
-### 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,flask,mongodb,excel,jdbc,opencv,mysql,aws,docker,git,github,linux,vscode,tensorflow,keras,flutter,latex,llm,eclipse&perline=10" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&height=100&lines=🚀+Farhan+Khan+%7C+AI+Architect;🧠+Machine+Learning+Wizard;⚡+Full+Stack+Developer;🔮+Building+The+Future+With+Code" alt="Dynamic Typing Animation" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code.%20Create.%20Innovate.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats  
+## 🎯 **About This Human** 
+
+```typescript
+const farhan = {
+    pronouns: "He" | "Him",
+    location: "🌍 Earth • Currently: Building AI Solutions",
+    currentFocus: ["Generative AI", "Cloud Architecture", "Full Stack Magic"],
+    challenge: "Building the next breakthrough in AI technology",
+    funFact: "I debug code faster than I debug my life 😅",
+    motto: "Turn coffee into code, and code into innovation ☕➡️💻➡️🚀"
+};
+```
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhankhankundur&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhankhankundur&hide_border=true&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Farhankhankundur&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy Case"/>
 </div>
 
 ---
-### 🔥 GitHub Streaks  
+
+## ⚡ **My Arsenal of Technologies**
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farhankhankundur&theme=radical" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" /><br>
+        <sub><b>🧠 AI/ML Stack</b></sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb&theme=dark" /><br>
+        <sub><b>🌐 Full Stack</b></sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark" /><br>
+        <sub><b>☁️ Cloud & DevOps</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask,fastapi,django,graphql&theme=dark" /><br>
+        <sub><b>🔧 Backend</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark" /><br>
+        <sub><b>🎨 Frontend</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /><br>
+        <sub><b>🛠️ Tools</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
----
+## 📊 **Performance Metrics**
 
-### 📝 Portfolio  
-Check out my [Portfolio](https://farhankhankundur.github.io/) to see more of my work and projects.  
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Farhankhankundur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Analytics" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhankhankundur&layout=donut&theme=tokyonight&hide_border=true&custom_title=🎯%20Code%20Distribution" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhankhankundur&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
 
-### 🏆 Achievements   
-- 🎥 **YouTuber** with 1k+ Subscribers  
-- 🌟 **Open Source Contributor**
-- 🥇**1st Place**, State-level Paper Presentation, GMIT: Presented award-winning research at a state-level competition.
-- 🥈 **3rd Place**, National Level Hackathon, Hackshethra, VVCE Mysore: Developed an innovative project in a
-national hackathon.
-- 🥈 **2nd Place**, Hackathon, Hacktechfusion, BIET: Secured second place with a creative technical solution.
-- 🥇 **3rd Place**, TON Society Global Hackathon, Web3: Built a Web3 application recognized on a global platform.
-- 🥈 Among Top 10 Teams , TON Hacker House Hackathon: Pitched a review app project, earning recognition among
-top 10 teams.
-- 🥇**2nd Place**, State-level Sketching Competition, Axis Bank: Showcased artistic talent in a state-level competition. 
-
----
-
-### 📌 Featured Projects  
-Here are some of my favorite projects:  
-
-- **[Project 1](https://github.com/Farhankhankundur/Intel-unnati)** - GenAI on Intel CPU- The project aims to demonstrate the performance and efficiency improvements in running GenAI models on Intel AI laptops using OpenVINO optimizations..  
-- **[Project 2](https://github.com/Farhankhankundur/Web-Content-Q-A-Tool-Gemini-Powered-)** - Web Content Q&A Tool (Gemini-Powered) Ever wanted to extract information from multiple web pages and get instant answers? 🚀 This Streamlit-powered app lets you scrape content from URLs and ask AI-driven questions using Google Gemini-Pro!.  
-- **[Project 3](https://github.com/Farhankhankundur/Face_recognition)** - Face Recognition System Using OpenCV This project implements a simple Face Recognition System using OpenCV in Python. The system captures face images from a live camera feed, trains an LBPH (Local Binary Patterns Histogram) face recognizer model, and performs real-time face recognition.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhankhankundur&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
-### 📫 Let's Connect!  
-Feel free to reach out to me for collaborations, projects, or just a chat!  
+## 🏆 **Achievement Unlocked**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🥇</td>
+      <td><b>State Champion</b> • Paper Presentation at GMIT</td>
+    </tr>
+    <tr>
+      <td align="center">🥈</td>
+      <td><b>National Finalist</b> • Hackshethra, VVCE Mysore</td>
+    </tr>
+    <tr>
+      <td align="center">🌐</td>
+      <td><b>Global Recognition</b> • TON Society Web3 Hackathon</td>
+    </tr>
+    <tr>
+      <td align="center">📺</td>
+      <td><b>Content Creator</b> • YouTube: 1K+ Subscribers</td>
+    </tr>
+    <tr>
+      <td align="center">🎨</td>
+      <td><b>Creative Mind</b> • State-level Sketching Champion</td>
+    </tr>
+    <tr>
+      <td align="center">💼</td>
+      <td><b>Industry Experience</b> • Intel Industrial Trainee</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 **Featured Masterpieces**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🧠 GenAI on Intel CPU</h3>
+        <a href="https://github.com/Farhankhankundur/Intel-unnati">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Intel-unnati&theme=tokyonight&hide_border=true" alt="Intel Project"/>
+        </a>
+        <p><sub>Optimizing AI models with OpenVINO</sub></p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🔍 Web Q&A Tool</h3>
+        <a href="https://github.com/Farhankhankundur/Web-Content-Q-A-Tool-Gemini-Powered-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Web-Content-Q-A-Tool-Gemini-Powered-&theme=tokyonight&hide_border=true" alt="Web QA Tool"/>
+        </a>
+        <p><sub>AI-powered web content analysis</sub></p>
+      </td>
+      <td width="33%" align="center">
+        <h3>👁️ Face Recognition</h3>
+        <a href="https://github.com/Farhankhankundur/Face_recognition">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Face_recognition&theme=tokyonight&hide_border=true" alt="Face Recognition"/>
+        </a>
+        <p><sub>Real-time OpenCV implementation</sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
 
 <div align="center">
   <a href="mailto:farhankhankundur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/farhankhankundur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/farhankhankundur">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/FarhanKhank18">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/farhan__khan__51">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/user/@cybergeek4865">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://youtube.com/@cybergeek4865">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  </a>
+  <a href="https://farhankhankundur.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Portfolio"/>
   </a>
 </div>
 
 ---
 
-### 🎨 Random Dev Quote  
+## 💡 **Daily Dose of Wisdom**
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Inspirational Quote"/>
 </div>
 
 ---
 
-### 🎮 Fun Fact  
-I’m currently learning **Full Stack Development**!  
-
----
+## 🎮 **Fun Zone**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farhankhankundur&style=flat-square&color=blue" alt="Profile Views" />
+  <details>
+    <summary>🔮 <b>Random Developer Fact</b></summary>
+    <br>
+    <p>I'm currently learning <b>Full Stack Development</b> and exploring the mysteries of Web3! 🚀</p>
+    <p>When I'm not coding, you'll find me sketching or creating YouTube content! 🎨📹</p>
+  </details>
 </div>
 
 ---
 
 <div align="center">
-  Made with ❤️ using <a href="https://github.com/Farhankhankundur">GitHub</a> and <a href="https://shields.io/">Shields.io</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Farhankhankundur&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <sub>✨ <i>Crafted with passion, powered by code, and fueled by coffee</i> ✨</sub>
 </div>
