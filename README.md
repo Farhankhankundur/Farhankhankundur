@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: 'Courier New', monospace; color: #00D9FF; text-shadow: 0 0 10px #00D9FF; letter-spacing: 2px;">Welcome to My Digital Universe</h1>
+  <h1 style="font-family: 'Courier New', monospace; color: #00D9FF; text-shadow: 0 0 10px #00D9FF; letter-spacing: 2px;">Welcome to My Digital Universe🌐</h1>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 </div>
 
