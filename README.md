@@ -12,16 +12,38 @@
 
 ## 🎯 **About This Human** 
 
-```javascript
-const farhan = {
-    pronouns: "He" | "Him",
-    location: "🌍 Earth • Currently: Building AI Solutions",
-    currentFocus: ["Generative AI", "Cloud Architecture", "Full Stack Magic"],
-    challenge: "Building the next breakthrough in AI technology",
-    funFact: "I debug code faster than I debug my life 😅",
-    motto: "Turn coffee into code, and code into innovation ☕➡️💻➡️🚀"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><strong>🧑‍💻 Role</strong></td>
+      <td>Software Engineer Intern @ DXC Technology</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📍 Location</strong></td>
+      <td>Honnali, Karnataka, India</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎓 Education</strong></td>
+      <td>AI & ML Engineering @ VTU (CGPA: 8.9/10)</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🔥 Focus</strong></td>
+      <td>GenAI Optimization • Edge Computing • ARXML Analysis</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🚀 Mission</strong></td>
+      <td>Building breakthrough AI solutions for enterprise edge deployment</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>⚡ Fun Fact</strong></td>
+      <td>Published researcher who debugs code faster than life problems 😅</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>☕ Motto</strong></td>
+      <td>"From Intel processors to global hackathons - turning ideas into innovation"</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Farhankhankundur&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy Case"/>
@@ -49,20 +71,25 @@ const farhan = {
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=flask,fastapi,django,graphql&theme=dark" /><br>
-        <sub><b>🔧 Backend</b></sub>
+        <img src="https://skillicons.dev/icons?i=java,html,css,powershell&theme=dark" /><br>
+        <sub><b>💻 Core Languages</b></sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark" /><br>
-        <sub><b>🎨 Frontend</b></sub>
+        <img src="https://skillicons.dev/icons?i=vscode,github,figma,powershell&theme=dark" /><br>
+        <sub><b>🛠️ Development Tools</b></sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /><br>
-        <sub><b>🛠️ Tools</b></sub>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,graphql&theme=dark" /><br>
+        <sub><b>🗄️ Databases</b></sub>
       </td>
     </tr>
   </table>
 </div>
+
+### 🎯 **Specialized Skills**
+- **AI/ML Frameworks:** OpenVINO, LLaMA 2, Custom Voice Synthesis, NLP
+- **Industry Tools:** Intel Edge Cloud, Jira (Kanban), PowerBI, Cursor IDE
+- **Research Areas:** Edge Computing, ARXML Analysis, Speech-to-Text/Text-to-Speech
 
 ---
 
@@ -96,6 +123,18 @@ const farhan = {
 <div align="center">
   <table>
     <tr>
+      <td align="center">💼</td>
+      <td><b>Software Engineer Intern</b> • DXC Technology (2025)</td>
+    </tr>
+    <tr>
+      <td align="center">🤖</td>
+      <td><b>AI Engineer Intern</b> • ResoluteAI Software (2024-25)</td>
+    </tr>
+    <tr>
+      <td align="center">⚡</td>
+      <td><b>Industrial Trainee</b> • Intel Corporation (2024)</td>
+    </tr>
+    <tr>
       <td align="center">🥇</td>
       <td><b>State Champion</b> • Paper Presentation at GMIT</td>
     </tr>
@@ -105,7 +144,7 @@ const farhan = {
     </tr>
     <tr>
       <td align="center">🌐</td>
-      <td><b>Global Recognition</b> • TON Society Web3 Hackathon</td>
+      <td><b>Global Recognition</b> • TON Society Web3 Hackathon (3rd Place)</td>
     </tr>
     <tr>
       <td align="center">📺</td>
@@ -113,11 +152,56 @@ const farhan = {
     </tr>
     <tr>
       <td align="center">🎨</td>
-      <td><b>Creative Mind</b> • State-level Sketching Champion</td>
+      <td><b>Creative Mind</b> • State-level Sketching Champion (Axis Bank)</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📚 **Publications & Research**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80">📖</td>
+      <td>
+        <b>"Comprehensive Survey on Kannada Language Speech to English Language Translation and Voice Cloning System"</b><br>
+        <sub>Journal of Advanced Research in Artificial Intelligence & It's Applications (2025)</sub><br>
+        <sub>Volume 2 Issue 2 • e-ISSN: 3048-6440 • DOI: 10.5281/zenodo.15123506</sub>
+      </td>
     </tr>
     <tr>
-      <td align="center">💼</td>
-      <td><b>Industry Experience</b> • Intel Industrial Trainee</td>
+      <td align="center">🚀</td>
+      <td>
+        <b>Book Chapter: Aerospace and Metamaterials</b><br>
+        <sub>Co-authored with ISRO and NASA scientists • Advancements in aerospace technology</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎓 **Certifications & Training**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">☁️</td>
+      <td><b>Oracle Cloud Infrastructure AI Certified Professional</b> (2024)</td>
+    </tr>
+    <tr>
+      <td align="center">🐍</td>
+      <td><b>IBM Machine Learning with Python</b> • Mastered ML fundamentals</td>
+    </tr>
+    <tr>
+      <td align="center">🔒</td>
+      <td><b>Microsoft Cybersecurity Essentials</b> • Security practices & threat management</td>
+    </tr>
+    <tr>
+      <td align="center">🤖</td>
+      <td><b>50-hour AI and ML Course</b> • ResoluteAI Software</td>
     </tr>
   </table>
 </div>
@@ -134,25 +218,30 @@ const farhan = {
         <a href="https://github.com/Farhankhankundur/Intel-unnati">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Intel-unnati&theme=tokyonight&hide_border=true" alt="Intel Project"/>
         </a>
-        <p><sub>Optimizing AI models with OpenVINO</sub></p>
+        <p><sub>OpenVINO optimization • 15% faster inference • LLaMA 2 enhancement</sub></p>
       </td>
       <td width="33%" align="center">
-        <h3>🔍 Web Q&A Tool</h3>
+        <h3>🗣️ Kannada-English Translator</h3>
         <a href="https://github.com/Farhankhankundur/Web-Content-Q-A-Tool-Gemini-Powered-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Web-Content-Q-A-Tool-Gemini-Powered-&theme=tokyonight&hide_border=true" alt="Web QA Tool"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Web-Content-Q-A-Tool-Gemini-Powered-&theme=tokyonight&hide_border=true" alt="Translation Tool"/>
         </a>
-        <p><sub>AI-powered web content analysis</sub></p>
+        <p><sub>Speech-to-Text • Custom Voice Cloning • Real-time Translation</sub></p>
       </td>
       <td width="33%" align="center">
-        <h3>👁️ Face Recognition</h3>
+        <h3>👁️ Face Recognition System</h3>
         <a href="https://github.com/Farhankhankundur/Face_recognition">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farhankhankundur&repo=Face_recognition&theme=tokyonight&hide_border=true" alt="Face Recognition"/>
         </a>
-        <p><sub>Real-time OpenCV implementation</sub></p>
+        <p><sub>95% accuracy • 30% latency reduction • Real-time processing</sub></p>
       </td>
     </tr>
   </table>
 </div>
+
+### 🎯 **Project Impact Metrics**
+- **Performance Optimization:** 15-30% improvement in inference speed across projects
+- **Accuracy Achievement:** 95%+ accuracy in computer vision applications  
+- **Industry Integration:** Deployed solutions on Intel Edge Cloud and enterprise systems
 
 ---
 
@@ -189,14 +278,42 @@ const farhan = {
 
 ---
 
+## 🎮 **Beyond Code: Leadership & Impact**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🤝 <b>Community Leadership</b></h4>
+        <p>🎯 <b>Student Coordinator</b> • IEEE International Conference, AMATHE</p>
+        <p>👨‍🏫 <b>Hackathon Mentor</b> • Guided students to technical success</p>
+        <p>💻 <b>Workshop Trainer</b> • 5-day Full Stack Development for 50+ students</p>
+        <p>🌟 <b>YUVA Club Member</b> • Social activities & community outreach</p>
+      </td>
+      <td align="center" width="50%">
+        <h4>🎨 <b>Creative Passions</b></h4>
+        <p>📸 <b>Photography</b> • Capturing moments & stories</p>
+        <p>💃 <b>Dancing</b> • Expressing creativity through movement</p>
+        <p>🎬 <b>Video Editing</b> • Content creation for YouTube</p>
+        <p>✏️ <b>Font Design & Sketching</b> • Digital & traditional art</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🎮 **Fun Zone**
 
 <div align="center">
   <details>
-    <summary>🔮 <b>Random Developer Fact</b></summary>
+    <summary>🔮 <b>Random Developer Facts</b></summary>
     <br>
-    <p>I'm currently learning <b>Full Stack Development</b> and exploring the mysteries of Web3! 🚀</p>
-    <p>When I'm not coding, you'll find me sketching or creating YouTube content! 🎨📹</p>
+    <p>🎓 <b>Academic Excellence:</b> Maintaining 8.9/10 CGPA in AI & ML Engineering</p>
+    <p>🏆 <b>Multi-talented:</b> From state-level sketching champion to published researcher</p>
+    <p>🌍 <b>Global Impact:</b> Collaborated with ISRO & NASA scientists on aerospace research</p>
+    <p>🎯 <b>Current Mission:</b> Optimizing enterprise AI solutions at DXC Technology</p>
+    <p>☕ <b>Fun Fact:</b> I debug ARXML files by day, and create YouTube content by night! 🌙</p>
   </details>
 </div>
 
