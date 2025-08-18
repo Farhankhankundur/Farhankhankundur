@@ -1,4 +1,13 @@
-<h1 align="center" style="color:#00D4FF; text-shadow: 0 0 10px #00D4FF, 0 0 20px #FF00D4, 0 0 30px #00D4FF;">
+<h1 align="center" style="
+  font-size: 42px;
+  font-weight: 900;
+  background: linear-gradient(90deg, #00D4FF, #FF00D4, #FFD700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 0px 15px rgba(0,212,255,0.8),
+               0px 0px 25px rgba(255,0,212,0.6),
+               0px 0px 35px rgba(255,215,0,0.5);
+">
   🌟 Welcome to My Digital Universe 🌟
 </h1>
 
