@@ -282,10 +282,10 @@
 <div align="center">
   
 ### 🌟 **Multi-Dimensional Impact** 🌟
-  
+
 <table>
-  <!-- Community Leadership -->
   <tr>
+    <!-- Community Leadership Column -->
     <td width="50%" valign="top">
       <div align="center">
         <img src="https://img.icons8.com/3d-fluency/94/group-background-selected.png" width="80" alt="Leadership"/>
@@ -312,7 +312,7 @@
       </div>
     </td>
     
-    <!-- Creative Passions -->
+    <!-- Creative Passions Column -->
     <td width="50%" valign="top">
       <div align="center">
         <img src="https://img.icons8.com/3d-fluency/94/artist-palette.png" width="80" alt="Creativity"/>
@@ -363,9 +363,6 @@
     </tr>
   </table>
 </div>
-
-<!-- Glowing Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=100%"/>
 </div>
 
 ---
