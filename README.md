@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🌟%20Welcome%20to%20My%20Digital%20Universe%20🌟&width=800&height=200" alt="Glitch Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=🌟%20Welcome%20to%20My%20Digital%20Universe%20🌟&width=800&height=200" alt="Wave Banner"/>
 </div>
-
 
 
 
