@@ -1,8 +1,4 @@
-<div align="center">
-  <!-- Main Header -->
-  <h1 style="font-family: 'Courier New', monospace; color: #00D9FF; text-shadow: 0 0 10px #00D9FF; letter-spacing: 2px;">Welcome to My Digital Universe🌐</h1>
 
- <div align="center">
   <!-- Waving Capsule -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20To%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
