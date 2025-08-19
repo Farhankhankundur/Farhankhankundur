@@ -3,7 +3,7 @@
   <h1 style="font-family: 'Courier New', monospace; color: #00D9FF; text-shadow: 0 0 10px #00D9FF; letter-spacing: 2px;">Welcome to My Digital Universe🌐</h1>
 
  <!-- Waving Capsule -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=.%20.%20.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome.%20To My .%20Digital World.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
   <!-- Typing Animation -->
