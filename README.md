@@ -130,7 +130,7 @@
       <td><b>AI Engineer Intern</b> • ResoluteAI Software (2024-25)</td>
     </tr>
     <tr>
-      <td align="center">⚡</td>
+      <td align="center">⚡</td> 
       <td><b>Industrial Trainee</b> • Intel Corporation (2024)</td>
     </tr>
     <tr>
