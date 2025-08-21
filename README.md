@@ -88,7 +88,7 @@
     </tr>
   </table>
 </div>
-
+    
 ### 🎯 **Specialized Skills**
 - **AI/ML Frameworks:** OpenVINO, LLaMA 2, Custom Voice Synthesis, NLP
 - **Industry Tools:** Intel Edge Cloud, Jira (Kanban), PowerBI, Cursor IDE
