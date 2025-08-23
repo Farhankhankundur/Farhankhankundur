@@ -154,7 +154,7 @@
       <td><b>Creative Mind</b> • State-level Sketching Champion (Axis Bank)</td>
     </tr>
   </table>
-</div>
+</div> 
 
 ---
 
