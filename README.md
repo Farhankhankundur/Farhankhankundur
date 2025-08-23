@@ -205,7 +205,7 @@
   </table>
 </div>
 
----
+---   
 
 ## 🚀 **Featured Masterpieces**
 
