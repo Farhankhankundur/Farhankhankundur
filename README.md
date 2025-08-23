@@ -70,7 +70,7 @@
       <td align="center" width="300">
         <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark" alt="Cloud & DevOps"/><br>
         <sub><b>☁️ Cloud & DevOps</b></sub>
-      </td>
+      </td>  
     </tr>
     <tr>
       <td align="center">
