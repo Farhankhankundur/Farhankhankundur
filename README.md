@@ -1,7 +1,7 @@
  
   <!-- Waving Capsule -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20To%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>    
+</div>      
             
       
   <!-- Typing Animation -->
