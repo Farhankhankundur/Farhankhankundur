@@ -85,7 +85,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div>  
     
 ### 🎯 **Specialized Skills**
 - **AI/ML Frameworks:** OpenVINO, LLaMA 2, Custom Voice Synthesis, NLP
