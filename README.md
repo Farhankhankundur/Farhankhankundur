@@ -9,7 +9,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Code.%20Create.%20Innovate.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>   
          
----   
+---      
   
 ## 🎯 **About This Human** 
 
