@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td align="center" width="120"><strong>🧑‍💻 Role</strong></td>
-      <td>Software Engineer Intern @ DXC Technology</td>
+      <td>AI Developer @ v2soft</td>
     </tr>
     <tr>
       <td align="center"><strong>📍 Location</strong></td>
