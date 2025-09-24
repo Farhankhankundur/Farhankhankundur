@@ -121,6 +121,10 @@
   <table>
     <tr>
       <td align="center">💼</td>
+      <td><b>Junior AI Developer</b> • v2soft (2025)</td>
+    </tr>
+    <tr>
+      <td align="center">💼</td>
       <td><b>Software Engineer Intern</b> • DXC Technology (2025)</td>
     </tr>
     <tr>
